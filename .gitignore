@@ -1,0 +1,9 @@
+# Ignore node_modules in all projects
+node_modules/
+my-app/
+
+# Ignore build artifacts
+build/
+dist/
+
+# Add more project-specific ignores as needed
